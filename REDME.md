@@ -1,0 +1,1 @@
+Pre Requisites: 	Java 8Compilation:    	 javac SearchUSA.javaRunning the code:      java SearchUSA [Algorithm] [Start city] [End City]                  where Algorithm is : “Astar” or “Greedy” or “Dynamic”Start city and End city should be of the same names as given in the file provided for the assignment.
